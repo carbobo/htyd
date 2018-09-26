@@ -2,4 +2,7 @@ learngit
 
 
 321321321
-add arr
+add arr0
+.0
+30
+0
